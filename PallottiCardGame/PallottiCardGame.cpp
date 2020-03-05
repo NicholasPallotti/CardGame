@@ -1,7 +1,4 @@
 //Nicholas Pallotti
-//Card Game Part 1
-//date submitted 2/12
-//date revised 2/14
 //this program will evetualy run a card game that uses a 52 card deck
 //the deck will have 5 colors and numbers 1-10 as well as wild cards
 //the objective of the game is to group cards with matching colors or 
@@ -9,15 +6,10 @@
 #include <iostream>
 #include<string>
 #include <iomanip>
-#include <stdlib.h>
 #include <ctime>
 #include <vector>
 #include <string>
 using namespace std;
-
-
-
-///testing changes
 
 
 /************************************************
