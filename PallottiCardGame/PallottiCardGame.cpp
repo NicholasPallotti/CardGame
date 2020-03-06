@@ -12,6 +12,8 @@
 using namespace std;
 
 
+//changes
+
 /************************************************
 		Card
 A Card object contains two variables, a character
